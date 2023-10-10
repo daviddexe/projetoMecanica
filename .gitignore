@@ -1,0 +1,7 @@
+# Ignorar a pasta venv (ambiente virtual do Python)
+env/
+
+# Ignorar os arquivos de ativação do ambiente virtual do Python
+*.pyc
+*.pyo
+__pycache__/
