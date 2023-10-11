@@ -109,7 +109,10 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'templates/static'))
 STATIC_ROOT = os.path.join('static')
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = "/media/"
+<<<<<<< HEAD
 
+=======
+>>>>>>> b27177063b6430a3f1dec5908d93acf3dc9799d1
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
