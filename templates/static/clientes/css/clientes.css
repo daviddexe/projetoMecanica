@@ -56,6 +56,12 @@ hr {
 
 h3 {
     font-size: 20px;
+    align-items: center;
+    text-align: center;
+    color: #dfdfdf;
+    font-family: 'Jost', sans-serif;
+
+   
 }
 
 .btn-add-carros {
@@ -64,6 +70,8 @@ h3 {
     padding: 5px 10px;
     border: none;
     cursor: pointer;
+    position: relative;
+    left: 44%;
 }
 
 .btn-principal {
@@ -72,6 +80,8 @@ h3 {
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+    position: relative;
+    left: 46.5%;
 }
 
 .formParg{
