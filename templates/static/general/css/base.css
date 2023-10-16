@@ -3,13 +3,15 @@ body{
 }
 
 ul.navbar {
+    text-align: center;
+    align-items: center;
+    display: flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: #818274;
     overflow: hidden;
-    display: inline-flex;
-    width: 100%;
+    
     
 }
 
