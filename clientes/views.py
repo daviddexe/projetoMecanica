@@ -1,3 +1,4 @@
 from django.shortcuts import render
-
-# Create your views here.
+from django.http import HttpResponse
+def clientes(request):
+    return HttpResponse('PAGINA CLIENTES ')
